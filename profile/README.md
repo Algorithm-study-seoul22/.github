@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=header&text=서울 22반 알고리즘 스터디(4조)&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=서울 22반 알고리즘 스터디(4조)&fontSize=50)
 
 ## Who's in?
 |  | 김용우 | 이재홍 | 이충혁(Boss) | 정영훈 | 탁성건 |
@@ -15,4 +15,4 @@
     - 매주 풀었던 문제 올리기(가능하다면 설명도)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
