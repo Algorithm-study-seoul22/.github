@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=서울 22반 알고리즘 스터디(4조)&fontSize=50)
 
 ## Who's in?
-|  | 김용우 | 이재홍 | 이충혁(대장) | 정영훈 | 탁성건 |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| GitHub | [Link](https://github.com/soybean33) | [Link](https://github.com/h78749891) | [Link](https://github.com/chyuk98) | [Link](https://github.com/ChocoBreeze) | [Link](https://github.com/profornnan) |
+|  | 김용우 | 박준섭 | 이재홍 | 이충혁(대장) | 정영훈 | 탁성건 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| GitHub | [Link](https://github.com/soybean33) | [Link](https://github.com/zooonsp) | [Link](https://github.com/h78749891) | [Link](https://github.com/chyuk98) | [Link](https://github.com/ChocoBreeze) | [Link](https://github.com/profornnan) |
 
 
 ## Visited
